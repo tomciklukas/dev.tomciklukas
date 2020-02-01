@@ -1,0 +1,20 @@
+{
+  "name": "tomciklukas.dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomciklukas/tomciklukas.dev.git"
+  },
+  "author": "Lukas Tomcik <tomciklukas@gmail.com> (https://tomciklukas.dev)",
+  "bugs": {
+    "url": "https://github.com/tomciklukas/tomciklukas.dev/issues"
+  },
+  "homepage": "https://github.com/tomciklukas/tomciklukas.dev#readme",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
