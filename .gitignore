@@ -18,3 +18,4 @@ npm-debug.log
 ### Project
 coverage
 junit*.xml
+dist
