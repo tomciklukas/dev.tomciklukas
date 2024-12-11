@@ -3,7 +3,7 @@ import React from "react";
 export default function App() {
     return (
         <div>
-            <style>{ `span { margin: 0 1rem; }` }</style>
+            <style>{ "span { margin: 0 1rem; }" }</style>
             <div>
                 <span>Lukas Tomcik</span>
             </div>
