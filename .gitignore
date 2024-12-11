@@ -1,21 +1,25 @@
-### JetBrains
+### IDE
+
+## JetBrains
 .idea
 *.iml
 
-### VSCode
-.vscode
+### OS
 
-### Apple
+## Apple
 .DS_Store
 
-### Git envs
-*.git
-
-### Node.js
-node_modules
-npm-debug.log
-
 ### Project
-coverage
-junit*.xml
+
+## Environment
+.env*
+
+## Node.js
+node_modules
+
+## Parcel
+.parcel-cache
 dist
+
+## Testing
+junit.xml
