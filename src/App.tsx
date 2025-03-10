@@ -44,7 +44,7 @@ const First = styled(Name)`
     -webkit-text-stroke: .4vmin #fff;
     color: transparent;
     font-size: 78vmin;
-    left: -8vmin;
+    left: -5vmin;
     margin-top: -50vmin;
     position: absolute;
     top: 50%;
